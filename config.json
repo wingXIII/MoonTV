@@ -45,7 +45,7 @@
         "name": "华为吧资源",
     },
     "jisu": {
-        "api": "https://jszy"api".com/api.php/provide/vod",
+        "api": "https://jszyapi.com/api.php/provide/vod",
         "name": "极速资源",
         "detail": "https://jszyapi.com", 
     },
@@ -104,7 +104,6 @@
     "jkun": {
         "api": "https://jkunzyapi.com/api.php/provide/vod",
         "name": "jkun资源",
-    //    adult: true
     },
     "bwzy": {
         "api": "https://api.bwzym3u8.com/api.php/provide/vod",
